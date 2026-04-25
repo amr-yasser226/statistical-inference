@@ -4,7 +4,9 @@ Course materials: R notebooks (`.ipynb`, R kernel) and concise concept notes for
 
 ## Layout
 
-* `R/` — runnable R notebooks
+* `R/notebooks/` — runnable R notebooks (e.g., assignments and exercises)
+* `R/Assignment-<number>/` — assignment deliverables, including LaTeX reports, scanned hand-written solutions, and generated visualizations
+* `R/resources/` — supplementary R resources and datasets
 * `<concept>/` — concept folder(s) with notes and examples
 * `LICENSE` — license for code
 * `LICENSE-CC-BY-NC-SA.md` — license for notes
